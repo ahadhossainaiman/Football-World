@@ -9,7 +9,7 @@ import teamPosterMale from '../../image/Photo/Rectangle 28.png';
 import teamPosterFemale from '../../image/Photo/female.png';
 import Twitter from '../../image/Icon/Twitter.png';
 import Fb from '../../image/Icon/Facebook.png';
-import Toutube from '../../image/Icon/YouTube.png';
+import Youtube from '../../image/Icon/YouTube.png';
 
 const LeagueDetails = () => {
     const {leagueId} = useParams();;
@@ -55,7 +55,7 @@ const LeagueDetails = () => {
                 <div className="social-link">
                     <a href={strTwitter}><img src={Twitter} alt=""/></a>
                     <a href={strFacebook}><img src={Fb} alt=""/></a>
-                    <a href={strYoutube}><img src={Toutube} alt=""/></a>
+                    <a href={strYoutube}><img src={Youtube} alt=""/></a>
                 </div>   
         </>
     );
