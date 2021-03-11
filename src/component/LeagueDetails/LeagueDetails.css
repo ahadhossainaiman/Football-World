@@ -1,0 +1,46 @@
+.teamBanner img{
+    width:20%;
+    height: 20%;
+}
+.teamBanner{
+    background-color:black;
+    opacity: 0.9;
+}
+.logo{
+    margin-left:25%;
+    width:100%;
+}
+.league{
+    background-color:rgb(53, 53, 218);
+    display: flex;
+    justify-content:space-evenly;
+    border:2px solid red;
+    border-radius:10px;
+    margin-top: 2%;
+}
+.team-poster img{
+    width:100%;
+    display:block;
+}
+h5 img{
+    width:5%;
+}
+h1,h2,h3,h4,h5,h6{
+    color:white;
+}
+.leagueDetails{
+    text-align: justify;
+}
+h5{
+    padding: 2%;
+}
+
+.social-link img{
+    width:60px;
+    margin: 5px;
+    padding: 5px;
+
+}
+.social-link{
+    text-align: center;
+}

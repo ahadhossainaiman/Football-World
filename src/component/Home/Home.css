@@ -1,0 +1,22 @@
+.banner {
+    width:100%;
+    opacity:0.5;
+    position:relative;
+    margin: 0;
+    padding:0;
+    
+   
+}
+.poster-tittle{
+    position:absolute;
+    color:rgb(255, 255, 255);
+    top:20vw;
+    left:33vw;
+    font-size:5vw;
+    font-weight:900;
+    font-style:unset;
+    background-color: black;
+    padding:10px;
+    opacity:0.5;
+
+}
